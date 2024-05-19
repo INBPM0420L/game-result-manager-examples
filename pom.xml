@@ -16,7 +16,7 @@
         <dependency>
             <groupId>hu.unideb.inf</groupId>
             <artifactId>game-result-manager</artifactId>
-            <version>1.0</version>
+            <version>1.0.0</version>
             <scope>compile</scope>
         </dependency>
         <dependency>
